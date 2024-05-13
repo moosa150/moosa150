@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musa</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
+<img align = "right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1S6N31cgIZU0FDue7kmAXK&ust=1715710641689000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC17qyei4YDFQAAAAAdAAAAABAE![Uploading image.png…]()
+">
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [www.muhammadmusa.cloud](www.muhammadmusa.cloud)
