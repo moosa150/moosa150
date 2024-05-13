@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Muhammad+Musa)](https://git.io/typing-svg)
 
 # 💫 About Me:
-- 🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at [www.muhammadmusa.cloud](www.muhammadmusa.cloud)<br><br>- 📫 Contact Me at **moosa_waqar@icloud.com**<br><br>- ⚡ Fun fact **I love to play AAA games**
+🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at [www.muhammadmusa.cloud](www.muhammadmusa.cloud)<br><br>- 📫 Contact Me at **moosa_waqar@icloud.com**<br><br>- ⚡ Fun fact **I love to play AAA games**
 
 
 ## 🌐 Socials:
