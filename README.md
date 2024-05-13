@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musa</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align = "right" alt="coding" width ="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGd3OWJjTUpPTjlHN015RVBidXNVaDc0SDVDQXxBQ3Jtc0trYmFBUUU1UHdCLWVpT1FhNWFuOU0yWk1IR1lrUmx3Um9RVWEyNVU1V180OTZlb3RXTmFFNVFjeXZiNjAzWkVMNlVLd2lxeGJXZ014RE1pczVNbjMxSElkY2dFeVo3ZXk0dGIzY0xmdlNZZmVERXl2NA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0
-">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Muhammad+MusaFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **MERN Stack**
 
