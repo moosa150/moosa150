@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Musa</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Muhammad+Musa;A+passionate+full+stack+developer+from+Pakistan)](https://git.io/typing-svg)</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Muhammad+MusaFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
