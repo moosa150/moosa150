@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musa</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align = "right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1S6N31cgIZU0FDue7kmAXK&ust=1715710641689000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC17qyei4YDFQAAAAAdAAAAABAE![Uploading image.png…]()
+<img align = "right" alt="coding" width ="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGd3OWJjTUpPTjlHN015RVBidXNVaDc0SDVDQXxBQ3Jtc0trYmFBUUU1UHdCLWVpT1FhNWFuOU0yWk1IR1lrUmx3Um9RVWEyNVU1V180OTZlb3RXTmFFNVFjeXZiNjAzWkVMNlVLd2lxeGJXZ014RE1pczVNbjMxSElkY2dFeVo3ZXk0dGIzY0xmdlNZZmVERXl2NA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0
 ">
 
 - 🌱 I’m currently learning **MERN Stack**
